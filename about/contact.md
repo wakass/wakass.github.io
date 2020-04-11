@@ -1,1 +1,0 @@
-You've made [contact](mailto:forall.labs@gmail.com)
