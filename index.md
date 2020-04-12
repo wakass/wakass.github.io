@@ -5,7 +5,7 @@ author_profile: false
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/atlab-homepage-feature.jpg
+  overlay_image: /assets/images/atlab-homepage-feature.png
   actions:
     - label: "<i class='fas fa-download'></i> Make first contact now"
       url: "/contact/"
