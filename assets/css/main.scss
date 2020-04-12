@@ -8,6 +8,9 @@
 .page__footer-copyright {
   display: none !important;
 }
+.page__hero--overlay {
+    background-position: right;
+};
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
