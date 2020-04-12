@@ -13,6 +13,4 @@ excerpt: >
   Metatechnology for a brave new world.
 
 ---
-# ∀Lab
 
-## Mέτατεχ
