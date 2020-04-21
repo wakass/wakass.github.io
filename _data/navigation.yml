@@ -1,3 +1,5 @@
 main:
+  - title: "WOTD"
+    url: /wotd/
   - title: "Contact"
     url: /contact/
