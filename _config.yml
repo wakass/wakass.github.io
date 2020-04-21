@@ -36,3 +36,6 @@ defaults:
       layout: single
       author_profile: false
 
+feed:
+  categories:
+    - wotd
