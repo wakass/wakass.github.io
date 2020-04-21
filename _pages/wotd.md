@@ -1,6 +1,7 @@
 ---
 permalink: /wotd/
 title: "WOTD"
-layout: categories
+layout: category
+taxonomy: "wotd"
 author_profile: false
 ---
