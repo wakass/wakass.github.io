@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-download'></i> Make first contact now"
       url: "/contact/"
 excerpt: >
-  Metatechnology.
+  Physics-based insights with components in natural systems, open-source, and electronics.
 
 ---
 
