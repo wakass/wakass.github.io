@@ -1,32 +1,39 @@
 ---
 title: "Physicist in Residence @ Worm"
-excerpt: "All the best singing shoes too"
+excerpt: "Coin operated boys and girls"
 header:
-  image: /assets/images/projects/residenceworm/logo.png
-  teaser: http://via.placeholder.com/640x360
-sidebar:
-  - title: "Physicsit in Residence"
-    image: http://via.placeholder.com/640x360
-    image_alt: "logo"
-    text: "Physicss in arcade"
-  - title: "Titles"
-    text: "Not sonic, electronics sueprsonic"
+  image: /assets/images/projects/residenceworm/header@1x.png
+  teaser: /assets/images/projects/residenceworm/header@0,5x.png
+sidebar: 
+  - title: "What"
+    text: "Historical documentation, restoration, exploration"
+  - title: "Where"
+    text: "@WORM, Rotterdam"
+  - title: "Github repository"
+    text: "[here](https://github.com/wakass/wormarcade)"
 gallery:
-  - url: /assets/images/projects/residenceworm/unsplash-gallery-image-1.jpg
-    image_path: http://via.placeholder.com/640x360
-    alt: "placeholder image 1"
-  - url: /assets/images/projects/residenceworm/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "Residence2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/projects/residenceworm/optocoupler.jpeg
+    image_path: /assets/images/projects/residenceworm/optocoupler.jpeg
+    alt: "Optocouplers"
+  - url: /assets/images/projects/residenceworm/microswitches.jpeg
+    image_path: /assets/images/projects/residenceworm/microswitches.jpeg
+    alt: "Microswitches"
+  - url: /assets/images/projects/residenceworm/before.jpeg
+    image_path: /assets/images/projects/residenceworm/before.jpeg
+    alt: "Before"
+  - url: /assets/images/projects/residenceworm/alabonlocation.jpeg
+    image_path: /assets/images/projects/residenceworm/alabonlocation.jpeg
+    alt: "ALab on location"
+custom_css: pixel
 ---
 
-## Physicist in residence
-Chris does arcades. 
+## WORM
+WORM invited me as "physicist in residence" where I'll be restoring and documenting their Arcade Machines. Meanwhile I put the 
+physicists' perspective on the magnets, cathode ray tubes, and electronics involved.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+## Keywords
+CRT, Particle Accelerators, Phosporescence, Metallurgy, Alkali, Mr. Muscle.
 
-Some more description.	
+{% include gallery caption="Arcade restoration" %}
+
 
