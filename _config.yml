@@ -1,8 +1,9 @@
-title: ∀Lab
-subtitle: Mέτατεχ
+title: Forall Labs
+subtitle: Mέτατεχnology
 minimal_mistakes_skin: default
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+encoding: utf-8
 
 include:
   - _pages
